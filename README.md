@@ -1,4 +1,4 @@
-# windows_cleaner
+# CleanMyTrash
 Небольшая утилита для очистки системы
 
 # 🧹 Windows Cleaner Script (Python)
