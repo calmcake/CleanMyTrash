@@ -1,9 +1,8 @@
 # CleanMyTrash
 Небольшая утилита для очистки системы
 
-<p align="center">
-  <img src="[https://example.com/image.png](https://github.com/user-attachments/assets/4f4ce573-3af7-4cfb-bcca-13d4f6816609)" width="400"/>
-</p>
+![image](https://github.com/user-attachments/assets/f18a28fb-bfbe-401b-b7fc-c5f51527b74d)
+
 
 # 🧹 Windows Cleaner Script (Python)
 
