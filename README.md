@@ -1,6 +1,10 @@
 # CleanMyTrash
 Небольшая утилита для очистки системы
 
+<p align="center">
+  <img src="[https://example.com/image.png](https://github.com/user-attachments/assets/4f4ce573-3af7-4cfb-bcca-13d4f6816609)" width="400"/>
+</p>
+
 # 🧹 Windows Cleaner Script (Python)
 
 Этот скрипт предназначен для быстрой очистки временных и кэшированных данных в Windows 10/11 с использованием Python.
